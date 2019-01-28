@@ -7,4 +7,4 @@
 - Unity Version : 2018.2.7f1
 
 
-## Detailed explanation is in this <a href = "https://github.com/emrecelik95/CSE462-HW2-Homography/blob/master/AR_HW2_Report.pdf" target="_blank">report</a>.
+#### Detailed explanation is in this <a href = "https://github.com/emrecelik95/CSE462-HW2-Homography/blob/master/AR_HW2_Report.pdf" target="_blank">report</a>.
